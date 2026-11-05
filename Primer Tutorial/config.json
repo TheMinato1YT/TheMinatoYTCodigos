@@ -1,0 +1,10 @@
+{
+    "token": "MTM2OTQ4Mjg2MTAwNjE1OTk2NQ.GvxRsl.GPxmMwZ52tgbFueXQ0WIUIpcUarTHuub3KUpeg",
+    "prefix": "!",
+    "colors": {
+        "default": "#2f3136",
+        "error": "#ed4245",
+        "success": "#57f287",
+        "info": "#5865f2"
+    }
+}
